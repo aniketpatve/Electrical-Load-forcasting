@@ -1,0 +1,5 @@
+1  frsh
+2 bill demand
+3 a b c d
+4 sggs load 
+5 see the output
